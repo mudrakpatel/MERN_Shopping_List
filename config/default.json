@@ -1,0 +1,4 @@
+{
+  "mongoURI": "mongodb+srv://mudrak:mudrak@123@mern-shopping-mudrak.5dt2y.mongodb.net/mern_shopping_mudrak?retryWrites=true&w=majority",
+  "jwtSecret": "BruceWayneIsBatman"
+}
